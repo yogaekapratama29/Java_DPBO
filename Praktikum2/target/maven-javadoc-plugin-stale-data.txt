@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'/Users/macairm1/NetBeansProjects/Praktikum2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Praktikum2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Praktikum2 1.0-SNAPSHOT API'
+com.mycompany.praktikum2
+/Users/macairm1/NetBeansProjects/Praktikum2/src/main/java = 1727335143371
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/tag-search-index.js = 1727525688928
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/overview-tree.html = 1727525688921
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/module-search-index.js = 1727525688927
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/index.html = 1727525688934
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/package-search-index.js = 1727525688927
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/index-all.html = 1727525688932
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/allpackages-index.html = 1727525688927
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/member-search-index.js = 1727525688928
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/help-doc.html = 1727525688935
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/element-list = 1727525688901
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/search.html = 1727525688933
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/allclasses-index.html = 1727525688926
+/Users/macairm1/NetBeansProjects/Praktikum2/target/reports/apidocs/type-search-index.js = 1727525688928
